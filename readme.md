@@ -2,7 +2,7 @@
 
 # Hey, I'm Saptak 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Backend-Focused+%7C+AdonisJS+6+%7C+NestJS;TypeScript+%26+Node.js+Enthusiast;React+on+the+Frontend;Always+leveling+up" alt="Typing SVG" />
+**Fullstack Developer · Backend-Focused · AdonisJS 6 · NestJS · TypeScript & Node.js**
 
 </div>
 
@@ -20,11 +20,23 @@
 
 <div align="center">
 
+## 🏆 Achievements
+
+| Platform / Event | Achievement |
+|---|---|
+| Codeforces | Expert |
+| CodeChef | 5 Star |
+| ICPC | Asia West Regionalist |
+
+---
+
+<div align="center">
+
 ## 🌟 Notable Contributions
 
 | Organization | Role | Details |
 |---|---|---|
-| [EzyCourse](https://ezycourse.com) | Top Contributor | Core backend contributor to EzyCourse — a full-featured online course platform (private repo) |
+| [EzyCourse](https://ezycourse.com) | Software Engineer | Worked on core features including automation, Website Builder 2.0, and architected EzyForm (advanced form builder). Resolved numerous production issues across the platform. |
 
 </div>
 
