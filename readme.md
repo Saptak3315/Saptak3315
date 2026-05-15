@@ -10,17 +10,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saptak3315&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak3315&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🔥 Streak Stats
 
 <img src="https://streak-stats.demolab.com?user=Saptak3315&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
@@ -31,19 +20,11 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 🌟 Notable Contributions
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saptak3315&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saptak3315&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e6e&area=true&hide_border=true" />
+| Organization | Role | Details |
+|---|---|---|
+| [EzyCourse](https://ezycourse.com) | Top Contributor | Core backend contributor to EzyCourse — a full-featured online course platform (private repo) |
 
 </div>
 
@@ -102,7 +83,7 @@
 ## 📬 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saptak3315)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:saptak@appifylab.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:saptakturja2018@gmail.com)
 
 <br/>
 
