@@ -10,9 +10,12 @@
 
 <div align="center">
 
-## 🔥 Streak Stats
+## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Saptak3315&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saptak3315&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saptak3315&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saptak3315&theme=github_dark" />
 
 </div>
 
